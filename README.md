@@ -15,7 +15,7 @@ sobre el formulario que se tiene en esos momentos<p>
 ```
 <p>Se quiere la creacion de la base de datos en el cual se desea realizar la migración y con 
 ```php artisan migrate
-``` 
+```
 <p>hacerla para que el proyecto pueda correr.</p>
 
 <img src=".//image/crud-clientes.png">
