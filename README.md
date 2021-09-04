@@ -8,13 +8,15 @@ Se tienen los CRUD de clientes, abogados y casos sobre los cuales se pueden elim
 sobre el formulario que se tiene en esos momentos<p>
 <p>Se requiren modificar ciertos datos en el archivo `env` en los siguientes parametros: </p>
 
-``` DB_DATABASE=
+``` 
+    DB_DATABASE=
     DB_USERNAME=root
     DB_PASSWORD=
 ```
-<p>Se quiere la creacion de la base de datos en el cual se desea realizar la migración y con ```
-php artisan migrate
-``` hacerla para que el proyecto pueda correr.</p>
+<p>Se quiere la creacion de la base de datos en el cual se desea realizar la migración y con 
+```php artisan migrate
+``` 
+<p>hacerla para que el proyecto pueda correr.</p>
 
 <img src=".//image/crud-clientes.png">
 <p>Este es un ejemplo de la vista del CRUD de clientes.</p>
